@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\bin\Debug\net6.0\P03-Store-Boxes.exe
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\bin\Debug\net6.0\P03-Store-Boxes.deps.json
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\bin\Debug\net6.0\P03-Store-Boxes.runtimeconfig.json
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\bin\Debug\net6.0\P03-Store-Boxes.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\bin\Debug\net6.0\P03-Store-Boxes.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.AssemblyInfo.cs
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\refint\P03-Store-Boxes.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\P03-Store-Boxes.genruntimeconfig.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P03-Store-Boxes\obj\Debug\net6.0\ref\P03-Store-Boxes.dll

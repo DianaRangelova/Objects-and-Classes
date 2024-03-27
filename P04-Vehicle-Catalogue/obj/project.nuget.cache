@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqX8DYmx78OLLFRrl1YxgNmArBuYGuflNu9uONuWhyEEU0E+lM1fXHy32L7UHefp50dqqQ2merRQM3xGZXyLMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Objects-and-Classes\\P04-Vehicle-Catalogue\\P04-Vehicle-Catalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

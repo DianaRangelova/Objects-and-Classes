@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.AssemblyInfo.cs
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\bin\Debug\net6.0\P04-Vehicle-Catalogue.exe
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\bin\Debug\net6.0\P04-Vehicle-Catalogue.deps.json
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\bin\Debug\net6.0\P04-Vehicle-Catalogue.runtimeconfig.json
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\bin\Debug\net6.0\P04-Vehicle-Catalogue.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\bin\Debug\net6.0\P04-Vehicle-Catalogue.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\refint\P04-Vehicle-Catalogue.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\P04-Vehicle-Catalogue.genruntimeconfig.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P04-Vehicle-Catalogue\obj\Debug\net6.0\ref\P04-Vehicle-Catalogue.dll

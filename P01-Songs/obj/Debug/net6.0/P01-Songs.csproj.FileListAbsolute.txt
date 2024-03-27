@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\bin\Debug\net6.0\P01-Songs.exe
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\bin\Debug\net6.0\P01-Songs.deps.json
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\bin\Debug\net6.0\P01-Songs.runtimeconfig.json
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\bin\Debug\net6.0\P01-Songs.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\bin\Debug\net6.0\P01-Songs.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.AssemblyInfo.cs
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\refint\P01-Songs.dll
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.pdb
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\P01-Songs.genruntimeconfig.cache
+C:\Users\PC\source\repos\Objects-and-Classes\P01-Songs\obj\Debug\net6.0\ref\P01-Songs.dll
