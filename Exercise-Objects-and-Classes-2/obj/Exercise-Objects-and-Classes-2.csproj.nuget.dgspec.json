@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\Article\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj": {}
+    "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Repos\\Objects-and-Classes\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\Article\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj": {
+    "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Repos\\Objects-and-Classes\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Article\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Repos\\Objects-and-Classes\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj",
         "projectName": "Exercise-Objects-and-Classes-2",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Article\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Repos\\Objects-and-Classes\\Exercise-Objects-and-Classes-2\\Exercise-Objects-and-Classes-2.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Article\\Exercise-Objects-and-Classes-2\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Repos\\Objects-and-Classes\\Exercise-Objects-and-Classes-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
